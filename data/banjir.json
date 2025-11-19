@@ -1,0 +1,19 @@
+[
+    {
+        "id": "demo1",
+        "nama": "Banjir Tondano Timur",
+        "lat": 1.305,
+        "lng": 124.92,
+        "keterangan": "Luapan Danau Tondano",
+        "level": "Tinggi",
+        "tanggal": "2024-12-01"
+    },
+    {
+        "id": "demo2",
+        "nama": "Genangan Air Wawalintouan",
+        "lat": 1.302,
+        "lng": 124.915,
+        "keterangan": "Drainase buruk",
+        "level": "Sedang"
+    }
+]

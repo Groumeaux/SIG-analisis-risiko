@@ -1,0 +1,16 @@
+[
+    {
+        "id": "demo6",
+        "nama": "RSUD Sam Ratulangi",
+        "lat": 1.315,
+        "lng": 124.905,
+        "keterangan": "Rumah Sakit Umum Daerah"
+    },
+    {
+        "id": "demo7",
+        "nama": "Puskesmas Tondano",
+        "lat": 1.31,
+        "lng": 124.91,
+        "keterangan": "Layanan Kesehatan Dasar"
+    }
+]

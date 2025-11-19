@@ -1,0 +1,16 @@
+[
+    {
+        "id": "demo4",
+        "nama": "SMA N 1 Tondano",
+        "lat": 1.3095,
+        "lng": 124.913,
+        "keterangan": "Sekolah Menengah Atas"
+    },
+    {
+        "id": "demo5",
+        "nama": "Universitas Negeri Manado",
+        "lat": 1.2773,
+        "lng": 124.8831,
+        "keterangan": "Kampus Pusat"
+    }
+]
